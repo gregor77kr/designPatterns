@@ -1,0 +1,11 @@
+*.class
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+
+bin/**
+/build/
+/bin/
+target/
